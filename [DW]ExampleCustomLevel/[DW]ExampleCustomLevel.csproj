@@ -32,8 +32,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Max.StardewValley.DeepWoodsMod.API, Version=1.0.6.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Max.StardewValley.DeepWoodsMod.API.1.0.6\lib\net45\Max.StardewValley.DeepWoodsMod.API.dll</HintPath>
+    <Reference Include="Max.StardewValley.DeepWoodsMod.API, Version=2.0.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Max.StardewValley.DeepWoodsMod.API.2.0.1\lib\net45\Max.StardewValley.DeepWoodsMod.API.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
